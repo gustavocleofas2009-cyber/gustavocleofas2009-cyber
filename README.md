@@ -1,7 +1,10 @@
 ## Hi Gustavo Cleofas
 
 
-Tenho 17 anos e sou de São Paulo, Brasil. Atualmente estou concluindo o Ensino Médio junto ao curso Técnico em Eletroeletrônica. Sou apaixonado por tecnologia, principalmente nas áreas de hardware, eletrônica, automação e sistemas embarcados. Gosto de desenvolver projetos com ESP32 e aprender cada vez mais sobre engenharia e inovação, buscando transformar ideias em tecnologia. 
+Tenho 17 anos e sou de São Paulo, Brasil. Atualmente estou concluindo o Ensino Médio junto ao curso Técnico em Eletroeletrônica. Tenho interesse nas áreas de hardware, eletrônica, automação e sistemas embarcados. Gosto de desenvolver projetos com ESP32 e aprender mais sobre tecnologia, buscando evoluir meus conhecimentos e criar novos projetos.
+  
+  
+  
   </a> 
     <a href="https://github.com/gustavocleofas2009-cyber?tab=repositories&sort=stargazers">
         <img 
